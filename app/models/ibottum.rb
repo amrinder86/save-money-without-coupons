@@ -1,2 +1,0 @@
-class Ibottum < ApplicationRecord
-end
